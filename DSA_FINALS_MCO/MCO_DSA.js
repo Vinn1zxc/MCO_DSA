@@ -1,3 +1,4 @@
+// Arvin, Benjamin, Charme
 // User accounts with credentials
 const accounts = [
     { user: "user1", pass: "pass1" },
